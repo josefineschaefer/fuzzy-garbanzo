@@ -7,7 +7,7 @@
 					<a href="/blog">Blog</a>
 				</li>
 				<li class="hover:text-[#50b0ae]">
-					<a href="/about">About</a>
+					<a href="/about-us">About</a>
 				</li>
 			</ul>
 		</nav>
