@@ -3,7 +3,7 @@
 
 	export async function load({ params }) {
 		const storyblokApi = useStoryblokApi();
-		console.log(params.slug); 
+
 		// let slug = "home"
 		// if (params.slug === "") {
 		// 	slug = "home"
